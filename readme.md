@@ -1,1 +1,1 @@
-kalamazoox website
+static kalamazoox website
