@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Kalamazoo X Conference</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>it&#039;s not what you expect</description>
+	<lastBuildDate>Mon, 30 Oct 2017 14:58:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>My experience &#8211; Jim Holmes</title>
+		<link>/blog/my-experience-jim-holmes/</link>
+		
+		<dc:creator><![CDATA[Mike]]></dc:creator>
+		<pubDate>Mon, 30 Oct 2017 14:34:06 +0000</pubDate>
+				<category><![CDATA[blog]]></category>
+		<guid isPermaLink="false">/?p=831</guid>
+
+					<description><![CDATA[Every couple weeks, starting today and ending right around the time of the conference, I&#8217;m going to post short videos or text blurbs from previous #kalx speakers. The first comes from friend and mentor, Jim Holmes. Jim has always been &#8230; <a href="/blog/my-experience-jim-holmes/">Continued</a>]]></description>
+										<content:encoded><![CDATA[<p>Every couple weeks, starting today and ending right around the time of the conference, I&#8217;m going to post short videos or text blurbs from previous #kalx speakers.</p>
+<p>The first comes from friend and mentor, Jim Holmes. Jim has always been a big supporter of the conference (and me), and has spoken at the event 6 of the 10 years! When I first mentioned the idea of asking previous speakers to record videos or write something up, without hesitation Jim said &#8220;yes&#8221; and within a day or two sent me the following video.</p>
+<div style="width: 640px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-831-1" width="640" height="360" preload="metadata" controls="controls"><source type="video/mp4" src="/wp-content/uploads/2017/10/KalX_Jim.mp4?_=1" /><a href="/wp-content/uploads/2017/10/KalX_Jim.mp4">/wp-content/uploads/2017/10/KalX_Jim.mp4</a></video></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
